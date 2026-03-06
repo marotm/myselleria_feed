@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>MySelleria Feed</title>
+    <link>https://www.myselleria.it/</link>
+    <description>Google Product Feed</description>
 
-<product>
-<id>0812_0001</id>
-<group_id>0812</group_id>
-<name>Coperta da box acavallo</name>
-<product_url>https://www.myselleria.it/P0812-coperta-da-box-acavallo-200-g</product_url>
-<image_url>https://www.myselleria.it/trunk/pr_imgbig_368_ac637_coperta-box-trapuntata-fodera-200gr.jpg</image_url>
-<brand>Acavallo</brand>
-<availability>in stock</availability>
-</product>
+    <item>
+      <g:id>0812_0001</g:id>
+      <g:item_group_id>0812</g:item_group_id>
+      <title>Coperta da box acavallo</title>
+      <description>Coperta piumone da box marca ACavallo...</description>
+      <link>https://www.myselleria.it/P0812-coperta-da-box-acavallo-200-g</link>
+      <g:image_link>https://www.myselleria.it/trunk/pr_imgbig_368_ac637_coperta-box-trapuntata-fodera-200gr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>239.5 EUR</g:price>
+      <g:brand>Acavallo</g:brand>
+      <g:mpn>0812</g:mpn>
+      <g:google_product_category>Articoli sportivi &gt; Ricreazione outdoor &gt; Equitazione</g:google_product_category>
+    </item>
 
-</products>
+  </channel>
+</rss>
